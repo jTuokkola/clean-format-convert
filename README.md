@@ -1,3 +1,6 @@
 # refineCSV
 A configurable tool for cleaning csv datasets and optionally transforming them into sqlite database files.
-Additional functionality and a user interface may be added later.
+
+Potential bachelor's thesis project. Under planning and early development.
+
+Hopefully will commit some of the progress in the coming weeks or couple of months.
