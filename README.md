@@ -1,4 +1,4 @@
-# refineCSV
-A configurable tool for cleaning csv datasets with regular expressions and optionally transforming them into sqlite database files.
+# clean-format-convert
+A simple tool for cleaning, validating and converting datasets for multiple formats.
 
-Potential project for my studies. Trying to figure out if there is any real use case to this.
+Potential project for my studies.
